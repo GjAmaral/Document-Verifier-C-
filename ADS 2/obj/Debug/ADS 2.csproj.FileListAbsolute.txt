@@ -1,0 +1,8 @@
+D:\Área de Trabalho\GERAL\ESTUDOS\PROJETOS\NOVOS\ADS 2\bin\Debug\ADS 2.exe.config
+D:\Área de Trabalho\GERAL\ESTUDOS\PROJETOS\NOVOS\ADS 2\bin\Debug\ADS 2.exe
+D:\Área de Trabalho\GERAL\ESTUDOS\PROJETOS\NOVOS\ADS 2\bin\Debug\ADS 2.pdb
+D:\Área de Trabalho\GERAL\ESTUDOS\PROJETOS\NOVOS\ADS 2\obj\Debug\ADS 2.csproj.AssemblyReference.cache
+D:\Área de Trabalho\GERAL\ESTUDOS\PROJETOS\NOVOS\ADS 2\obj\Debug\ADS 2.csproj.SuggestedBindingRedirects.cache
+D:\Área de Trabalho\GERAL\ESTUDOS\PROJETOS\NOVOS\ADS 2\obj\Debug\ADS 2.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\GERAL\ESTUDOS\PROJETOS\NOVOS\ADS 2\obj\Debug\ADS 2.exe
+D:\Área de Trabalho\GERAL\ESTUDOS\PROJETOS\NOVOS\ADS 2\obj\Debug\ADS 2.pdb

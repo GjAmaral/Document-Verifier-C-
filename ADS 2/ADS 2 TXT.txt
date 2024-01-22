@@ -1,0 +1,23 @@
+/*Random DigitosAleatorios = new Random();
+        public string[] DigitosParaCalculo_Array = new string[12];
+        public int DigitosParaCalculo = 0;
+        public string CPF;
+        public string CNPJ;
+        public string PIS;
+        public string TituloEleitor;
+        public string InscriçãoEstadual;
+
+        public DigitosDocumentos()
+        {
+            while (DigitosParaCalculo < DigitosParaCalculo_Array.Length)
+            {
+                DigitosParaCalculo_Array[DigitosParaCalculo] = DigitosAleatorios.Next(0, 10).ToString();
+                DigitosParaCalculo++;
+            }
+
+            CPF = string.Join("", DigitosParaCalculo_Array.Take(9));
+            CNPJ = string.Join("", DigitosParaCalculo_Array.Take(8));
+            PIS = string.Join("", DigitosParaCalculo_Array.Take(10));
+            TituloEleitor = string.Join("", DigitosParaCalculo_Array.Take(10));
+            InscriçãoEstadual = string.Join("", DigitosParaCalculo_Array.Take(10));
+        }*
